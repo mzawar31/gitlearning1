@@ -1,0 +1,2 @@
+Lion tiger creating first file
+wanted to add one more change to first.txt hence using amend command
